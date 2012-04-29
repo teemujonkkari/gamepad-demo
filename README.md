@@ -1,7 +1,7 @@
   
 # GamePad Demo
 
-GamePad demo shows how to use mobile phone browser as gamepad for playing game on your desktop's browser.
+GamePad demo shows how to use mobile phone browser as gamepad for playing game in your desktop browser.
 
 ## How to test
 
